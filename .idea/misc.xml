@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/BookingHotelOnline/app/src/main/res/layout/activity_booking_form_hotel_room.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BookingHotelOnline/app/src/main/res/layout/activity_booking_form_meeting_room.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BookingHotelOnline/app/src/main/res/layout/activity_booking_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BookingHotelOnline/app/src/main/res/layout/activity_detail_hotel_room.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BookingHotelOnline/app/src/main/res/layout/activity_detail_meeting_room.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BookingHotelOnline/app/src/main/res/layout/activity_edit_profile.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BookingHotelOnline/app/src/main/res/layout/activity_facilities.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BookingHotelOnline/app/src/main/res/layout/activity_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BookingHotelOnline/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BookingHotelOnline/app/src/main/res/layout/activity_hotel_room.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BookingHotelOnline/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BookingHotelOnline/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BookingHotelOnline/app/src/main/res/layout/activity_meeting_room.xml" value="0.4" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BookingHotelOnline/app/src/main/res/layout/activity_profil.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BookingHotelOnline/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BookingHotelOnline/app/src/main/res/layout/item_hotelroom.xml" value="0.4" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/BookingHotelOnline/app/src/main/res/layout/item_meetingroom.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.13020833333333334" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
